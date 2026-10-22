@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg version="1.2" baseProfile="tiny-ps" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <title>Assessoria Vetor</title>
+  <rect width="1000" height="1000" fill="#FFFFFF" />
+  <path fill="#000000" d="M 271 240 H 368 Q 386 240 393 258 L 498 614 L 602 258 Q 609 240 627 240 H 724 Q 746 240 739 262 L 580 744 Q 573 766 552 766 H 444 Q 422 766 415 744 L 257 262 Q 249 240 271 240 Z" />
+</svg>
